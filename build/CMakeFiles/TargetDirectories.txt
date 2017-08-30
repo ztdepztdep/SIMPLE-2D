@@ -1,0 +1,3 @@
+/home/ztdep/Projects/SimpleCollocatedF/build/CMakeFiles/rebuild_cache.dir
+/home/ztdep/Projects/SimpleCollocatedF/build/CMakeFiles/edit_cache.dir
+/home/ztdep/Projects/SimpleCollocatedF/build/CMakeFiles/simplecollocatedf.dir

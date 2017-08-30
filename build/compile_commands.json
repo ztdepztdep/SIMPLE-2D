@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/ztdep/Projects/SimpleCollocatedF/build",
+  "command": "/usr/bin/gfortran    -O3   -c /home/ztdep/Projects/SimpleCollocatedF/Modules.f95 -o CMakeFiles/simplecollocatedf.dir/Modules.f95.o",
+  "file": "/home/ztdep/Projects/SimpleCollocatedF/Modules.f95"
+},
+{
+  "directory": "/home/ztdep/Projects/SimpleCollocatedF/build",
+  "command": "/usr/bin/gfortran    -O3   -c /home/ztdep/Projects/SimpleCollocatedF/Main_Grid.f95 -o CMakeFiles/simplecollocatedf.dir/Main_Grid.f95.o",
+  "file": "/home/ztdep/Projects/SimpleCollocatedF/Main_Grid.f95"
+},
+{
+  "directory": "/home/ztdep/Projects/SimpleCollocatedF/build",
+  "command": "/usr/bin/gfortran    -O3   -c /home/ztdep/Projects/SimpleCollocatedF/Main_MIM.f95 -o CMakeFiles/simplecollocatedf.dir/Main_MIM.f95.o",
+  "file": "/home/ztdep/Projects/SimpleCollocatedF/Main_MIM.f95"
+},
+{
+  "directory": "/home/ztdep/Projects/SimpleCollocatedF/build",
+  "command": "/usr/bin/gfortran    -O3   -c /home/ztdep/Projects/SimpleCollocatedF/Main_P.f95 -o CMakeFiles/simplecollocatedf.dir/Main_P.f95.o",
+  "file": "/home/ztdep/Projects/SimpleCollocatedF/Main_P.f95"
+},
+{
+  "directory": "/home/ztdep/Projects/SimpleCollocatedF/build",
+  "command": "/usr/bin/gfortran    -O3   -c /home/ztdep/Projects/SimpleCollocatedF/Main_T.f95 -o CMakeFiles/simplecollocatedf.dir/Main_T.f95.o",
+  "file": "/home/ztdep/Projects/SimpleCollocatedF/Main_T.f95"
+},
+{
+  "directory": "/home/ztdep/Projects/SimpleCollocatedF/build",
+  "command": "/usr/bin/gfortran    -O3   -c /home/ztdep/Projects/SimpleCollocatedF/Main_X.f95 -o CMakeFiles/simplecollocatedf.dir/Main_X.f95.o",
+  "file": "/home/ztdep/Projects/SimpleCollocatedF/Main_X.f95"
+},
+{
+  "directory": "/home/ztdep/Projects/SimpleCollocatedF/build",
+  "command": "/usr/bin/gfortran    -O3   -c /home/ztdep/Projects/SimpleCollocatedF/Main_Y.f95 -o CMakeFiles/simplecollocatedf.dir/Main_Y.f95.o",
+  "file": "/home/ztdep/Projects/SimpleCollocatedF/Main_Y.f95"
+},
+{
+  "directory": "/home/ztdep/Projects/SimpleCollocatedF/build",
+  "command": "/usr/bin/gfortran    -O3   -c /home/ztdep/Projects/SimpleCollocatedF/Solver.f95 -o CMakeFiles/simplecollocatedf.dir/Solver.f95.o",
+  "file": "/home/ztdep/Projects/SimpleCollocatedF/Solver.f95"
+},
+{
+  "directory": "/home/ztdep/Projects/SimpleCollocatedF/build",
+  "command": "/usr/bin/gfortran    -O3   -c /home/ztdep/Projects/SimpleCollocatedF/LIDDRIVEN.f95 -o CMakeFiles/simplecollocatedf.dir/LIDDRIVEN.f95.o",
+  "file": "/home/ztdep/Projects/SimpleCollocatedF/LIDDRIVEN.f95"
+},
+{
+  "directory": "/home/ztdep/Projects/SimpleCollocatedF/build",
+  "command": "/usr/bin/gfortran    -O3   -c /home/ztdep/Projects/SimpleCollocatedF/Main.f95 -o CMakeFiles/simplecollocatedf.dir/Main.f95.o",
+  "file": "/home/ztdep/Projects/SimpleCollocatedF/Main.f95"
+}
+]
